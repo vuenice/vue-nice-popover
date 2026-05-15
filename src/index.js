@@ -1,1 +1,1 @@
-export { default } from './src/CommonPopover.vue'
+export { default } from './VueNicePopover.vue';
